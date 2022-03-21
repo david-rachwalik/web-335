@@ -6,3 +6,8 @@ Bellevue University | Web Development [Degree](http://www.bellevue.edu/degrees/b
 
 - Richard Krasso
 - David Rachwalik
+
+### Tools
+
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=TheUMLetTeam.umlet)
+- [UMLet Examples](http://www.itmeyer.at/umlet/uml2)
